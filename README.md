@@ -23,9 +23,9 @@ custo = consumoMensal * 0.75
 3. Execute: python app.py
 
 ## 📊 Exemplo
-Aparelho: Geladeira
-Consumo estimado: 45 kWh/mês
-Custo estimado: R$ 33.75
+1. Aparelho: Geladeira
+2. Consumo estimado: 45 kWh/mês
+3. Custo estimado: R$ 33.75
 
 ## 🏷️ Badges
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
